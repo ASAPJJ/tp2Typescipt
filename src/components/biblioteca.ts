@@ -76,6 +76,7 @@ document.querySelector<HTMLDivElement>('#tp3')!.innerHTML = `
     <div id='librosDisponibles'></div>
     <div id='librosPrestados'></div>
   </div>
+  <div id='tp4'></div>
 `;
 
 const biblioteca = new Biblioteca();

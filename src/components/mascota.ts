@@ -52,6 +52,7 @@ document.querySelector<HTMLDivElement>('#tp4')!.innerHTML = `
       <button id="cuidar">Cuidar</button>
     </div>
   </div>
+  <div id='tp5n'><div/>
 `;
 
 let mascota: MascotaVirtual | null = null;
